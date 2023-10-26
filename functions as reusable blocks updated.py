@@ -12,4 +12,3 @@ for number in number_range:
         continue
     else:
         print(number)
-
